@@ -23,32 +23,54 @@ Testing the webserver.
 
 ## PROGRAM:
 
-"""
+
 <html>
+
 <title>TCP/IP PROTOCOL</title>
+
 <body>
+
 <table border="2" cellspacing="15" cellpadding="6" align="center">
+
 <caption>TCP/IP PROTOCOL SUITE</caption>
+
 <br>
+
 <tr bgcolor="blue">
+
 <th>S.No</th><th>LAYER</th><th>PROTOCOLS</th>
+
 </tr> <tr>
+
 <td>1</td><td>Application Layer</td><td>HTTP,FTP,DNS,Telnet,SSH</td>
+
 </tr>
+
 <tr>
+
 <td>2</td><td>Transport Layer</td><td>TCP,UDP</td>
+
 </tr>
+
 <tr>
+
 <td>3</td><td>Internet Layer</td><td>ICMP,IGMP,ARP,IPv4/IPv6</td>
+
 </tr>
+
 <tr>
+
 <td>4</td><td>Network Access Layer</td><td>MAC/Ethernet,FDDI,Frame Relay</td>
+
 </tr>
+
 </table>
+
 </body>
+
 </html>
 
-"""
+
 
 ## OUTPUT:
 ![alt text](output.jpg)
